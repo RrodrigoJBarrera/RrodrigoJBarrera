@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @RrodrigoJBarrera
-- 👀 I’m interested in ... Mobile
-- 🌱 I’m currently learning ... Web Full Stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hola, soy @RrodrigoJBarrera
+-  Soy un apasionado aprendiz del Desarrollo Web. Mi objetivo es convertirme en un Desarrollador Web competente y contribuir a proyectos emocionantes en el futuro.
 
 <!---
 RrodrigoJBarrera/RrodrigoJBarrera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
